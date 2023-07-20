@@ -1,3 +1,7 @@
+This project was bootstrapped with vite.
+
+./Screenshot from 2023-07-21 01-23-46.png
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
